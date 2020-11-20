@@ -1,6 +1,7 @@
-# Wildfire Tracker
+# NASA Natural Events Tracker
 
 This is a React app to track weather events from NASA and plot them on a Google map.
+https://eonet.sci.gsfc.nasa.gov/api/v2.1/events
 
 # Usage
 

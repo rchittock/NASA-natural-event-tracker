@@ -1,7 +1,6 @@
 body {
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-  overflow: hidden;
+  font-family: arial, sans-serif;
 }
 
 .header {
@@ -10,15 +9,15 @@ body {
   color: #fff;
   position: fixed;
   top: 0;
-  right: 0;
   left: 0;
+  right: 0;
   z-index: 100;
 }
 
 .header h1 {
-  font-size: 25px;
-  padding: 0;
+  font-size: 15px;
   margin: 0;
+  padding: 0;
   text-align: center;
 }
 
@@ -42,11 +41,11 @@ body {
 }
 
 .loader img {
-  width: 400px;
+  width: 200px;
 }
 
 .loader h1 {
-  margin-top: -100px;
+  margin-top: -50px;
 }
 
 .location-info {
@@ -67,6 +66,10 @@ body {
   padding: 0;
 }
 
-.location-info li {
+.location-info ul li {
   padding: 5px 0;
+}
+
+.location-info-header {
+  margin: 0;
 }

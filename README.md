@@ -2,6 +2,12 @@
 
 This is a React app to track weather events from NASA and plot them on a Google map.
 
+# Events
+* Wildfires
+* Sea and Lake Ice
+* Volcanoes
+* Severe Storms
+
 # API URL
 https://eonet.sci.gsfc.nasa.gov/api/v2.1/events
 
